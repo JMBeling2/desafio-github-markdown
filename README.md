@@ -1,10 +1,16 @@
-<h1>Desafio GitHub Markdown - DIO</h1>
-<h3>Repositório Criado apenas para testes, e treinamento!</h3>
-<h2>Curso GitHub da DIO</h2>
-<h2>🚀<a src="https://web.dio.me/track/formacao-github-certification">LINK</a></h2>
+<h1>Curso "Formação Github Certification" da <a href="https://www.dio.me/curso-ruby-on-rails">DIO.</a></h1>
+ <img  align="right" width="250px" style="margin-top:-20px" src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png"> 
 
-<h2>Professora Responsável:</h2>
-<h2>Aline Antunes</h2>
+<div>
+ <h3>✅Repositório Criado apenas para testes, e treinamento!</h3>
+</div>
 
-<h2>Certificado:</h2>
-<h2>🚀<a src="https://web.dio.me/track/formacao-github-certification">CERTIFICADO</a></h2>
+<div>
+  <h3>🧑‍💻Professora Responsável:</h3>
+ <a href="https://www.linkedin.com/in/allineantunnes/">Aline Antunes</a>
+ </div>
+ 
+ <div>
+ <h3>🎓Certificado de Conclusão de Curso:</h3>
+ <a href="/">CERTIFICADO</a>
+ </div>
